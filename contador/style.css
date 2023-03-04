@@ -1,0 +1,16 @@
+
+.contador {
+  padding: 15px;
+  text-align: center;
+  background-color: #5c5c84;
+  border-radius: 10px;
+}
+
+.contador button {
+  font-size: large;
+  border-radius: 100px;
+}
+
+#numero  {
+  font-size: 50px;
+}
